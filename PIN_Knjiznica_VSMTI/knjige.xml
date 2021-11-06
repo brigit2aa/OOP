@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<knjigexm>
+    <Knjige>
+        <Knjiga r.broj="1" sifra="123" naziv="Kradljivica knjiga" autori="111" godina_izdanja="2019" nakladnik="Skoljska knjiga" oib_citatelja="1"/>
+        <Knjiga r.broj="2" sifra="112" naziv="Klara" autori="100" godina_izdanja="2008" nakladnik="Mozaik knjiga" oib_citatelja="1"/>
+        <Knjiga r.broj="3" sifra="234" naziv="Poglavar" autori="222" godina_izdanja="2016" nakladnik="Mozaik knjiga" oib_citatelja="1"/>
+        <Knjiga r.broj="4" sifra="345" naziv="Djevojka u vlaku" autori="333" godina_izdanja="2016" nakladnik="Mozaik knjiga" oib_citatelja="1"/>
+        <Knjiga r.broj="5" sifra="456" naziv="Tisucu zarkih sunaca" autori="444" godina_izdanja="2018" nakladnik="Vorto Palabra d.o.o" oib_citatelja="1"/>
+        <Knjiga r.broj="6" sifra="567" naziv="Nepodnosljiva lakoca postojanja" autori="555" godina_izdanja="2012" nakladnik="Meandarmedia" oib_citatelja="1"/>
+        <Knjiga r.broj="7" sifra="678" naziv="Ljubav u doba kolere" autori="666" godina_izdanja="2008" nakladnik="Vukovic i Runjic" oib_citatelja="1"/>
+        <Knjiga r.broj="8" sifra="789" naziv="Informaticar starog kova" autori="777" godina_izdanja="2014" nakladnik="Super velika akcija" oib_citatelja="1"/>
+        <Knjiga r.broj="9" sifra="890" naziv="Prica o izgubljenoj djevojcici" autori="888" godina_izdanja="2019" nakladnik="Buybook" oib_citatelja="1"/>
+        <Knjiga r.broj="10" sifra="900" naziv="Prigovor savjesti" autori="999" godina_izdanja="2013" nakladnik="Naklada Ljevak d.o.o" oib_citatelja="1"/>
+    </Knjige>
+</knjigexm>

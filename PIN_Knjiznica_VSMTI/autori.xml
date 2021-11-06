@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<autorixm>
+  <Autori>
+    <Autor ime="Miro " prezime="Gavran" sifra="100"></Autor>
+    <Autor ime="Markus " prezime="Zusak" sifra="111"></Autor>
+    <Autor ime="Monica " prezime="McCarty" sifra="222"></Autor>
+    <Autor ime="Paula " prezime="Hawkins" sifra="333"></Autor>
+    <Autor ime="Khaled " prezime="Hosseini" sifra="444"></Autor>
+    <Autor ime="Milan " prezime="Kundera" sifra="555"></Autor>
+    <Autor ime="Gabriel " prezime="Garcia Marquez" sifra="666"></Autor>
+    <Autor ime="Kristijan " prezime="Miric" sifra="777"></Autor>
+    <Autor ime="Elena " prezime="Ferrante" sifra="888"></Autor>
+    <Autor ime="John " prezime="Boyne" sifra="999"></Autor>
+  </Autori>
+</autorixm>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<citateljixm>
+  <Citatelji>
+    <Citatelj ime="Marcela" prezime="Bool" oib="55683003215" adresa="Julia Merlica 124, 10678 Varazdin" zakasnina="Ne"></Citatelj>
+    <Citatelj ime="Klara" prezime="Float" oib="72638935795" adresa="Andrie Kuharica 14, 66987 Vukovar" zakasnina="Da" ></Citatelj>
+    <Citatelj ime="Stjepan" prezime="Integer" oib="168935755266" adresa="Julija Dobrile 456, 76234 Osijek" zakasnina="Ne"></Citatelj>
+    <Citatelj ime="Janja" prezime="String" oib="985427479478" adresa="Cezareva 148, 90000 Split" zakasnina="Ne"></Citatelj>
+    <Citatelj ime="Veronika" prezime="Void" oib="6678335147789" adresa="Ivana Juric Zagorka 88, 10000 Zagreb" zakasnina="Da"></Citatelj>
+    <Citatelj ime="Nikola" prezime="Char" oib="982463509756" adresa="Cernobilska 65, 99999 Sisak" zakasnina="Da"></Citatelj>
+    <Citatelj ime="Boris" prezime="Include" oib="76553638120" adresa="Miroslava Krleze 76, 10 000 Zagreb" zakasnina="Ne"></Citatelj>
+    <Citatelj ime="Andriana" prezime="Heder" oib="624018113091" adresa="Vukovarska 23, 33410 Suhopolje " zakasnina="Ne"></Citatelj>
+    <Citatelj ime="Kristijan" prezime="Double" oib="471207808955" adresa="Visnjicka 58, 33000 Virovitica" zakasnina="Ne"></Citatelj>
+    <Citatelj ime="Bjanka" prezime="Tiny" oib="5569183003215" adresa="Supljicevova 33, 33333 Omis" zakasnina="Da"></Citatelj>
+  </Citatelji>
+</citateljixm>
